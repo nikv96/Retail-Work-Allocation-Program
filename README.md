@@ -8,3 +8,6 @@ Built with Python 2.7
 3. Open from Command Prompt or Terminal.
 4. Open the directory from Terminal.
 5. Use the command - python Main.py to run the program.
+
+#Disclaimer
+This repository is no longer being maintained.
